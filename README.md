@@ -7,3 +7,4 @@ stakeholders.
 customer retention efforts.
 • Created visualizations to showcase sales trends per month and year, enabling effective sales planning and performance
 Developed interactive dashboards and visual reports to display total earnings, enabling stakeholders to easily track and understand financial performance
+![18 06 2023_12 46 31_REC](https://github.com/digjyoti05/Microsoft-Power-BI-Project/assets/128204546/19d6b270-219f-4f58-b981-77707d4a8fb4)
